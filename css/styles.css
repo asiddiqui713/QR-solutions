@@ -1,4 +1,11 @@
-
+@media (max-width:1000px) {
+  .title {
+    position: static;
+    text-align: center;
+    font-size: 60px; 
+  }
+}
+  
 #title {
   background-color: #630000;
 }
