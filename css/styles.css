@@ -117,13 +117,22 @@ p {
   color: black;
 }
 #footer {
-  padding: 7% 15%;
-  background-color: white;
+  background-color: #bbbbbb;
   color: black;
+  padding: 7% 15%;
+  width: 100%;
   text-align: center;
 }
-
 .footer-para {
+  color: black;
+  font-weight: bolder;
   text-align: center;
+}
+.social-icon {
+  margin: 20px 20px;
+}
+
+.social-icon:hover {
+  color: #e84545;
 }
 
