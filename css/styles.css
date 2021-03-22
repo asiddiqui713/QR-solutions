@@ -117,11 +117,10 @@ p {
   color: black;
 }
 #footer {
-  background-color: #bbbbbb;
   color: black;
-  padding: 7% 15%;
-  width: 100%;
+  padding: 5% 10%;
   text-align: center;
+  width: 90%
 }
 .footer-para {
   color: black;
