@@ -119,6 +119,8 @@ p {
 #footer {
   background-color: black;
   color: white;
+  text-align: center;
+  padding: 7% 15%;
 }
 
 .footer-para {
