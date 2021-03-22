@@ -118,6 +118,7 @@ p {
 }
 #footer {
   background-color: white;
+  color: white;
   text-align: center;
   padding: 7% 15%;
 }
@@ -125,4 +126,5 @@ p {
 .footer-para {
   color: white;
   font-weight: bolder;
+  text-align: center;
 }
