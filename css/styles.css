@@ -48,7 +48,19 @@
     padding: 90%;
     color: white;
 }
-
+.top-btn {
+  right: 1%;
+  position: fixed;
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+  font-style: bolder;
+  border-style: solid;
+  top: 90%;
+}
+.top-btn:hover {
+  color: #2b2e4a;
+}
 h1 {
   font-family: Montserrat;
   font-size: 1rem;
